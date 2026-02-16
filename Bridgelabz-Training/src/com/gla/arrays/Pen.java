@@ -1,4 +1,7 @@
 package com.gla.arrays;
 
 public class Pen {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
