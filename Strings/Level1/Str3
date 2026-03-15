@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Main {
 
+
+    }
+
     public static String makeSub(String s, int start, int end) {
         String result = "";
 
